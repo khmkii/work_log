@@ -7,8 +7,6 @@ import platform
 import re
 
 
-"""add a clear screen function to tidy of the presentation of data"""
-
 dir_path = config.config['DIR_PATH']
 filename = config.config['FILENAME']
 
